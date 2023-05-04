@@ -1,0 +1,21 @@
+
+#search-section{
+    margin-top: 50px;
+    align-content: center;
+    justify-content: space-around;
+    border: 2px solid black;
+    height: 150px;
+    width: 500px;
+}
+
+#search-left-div{
+    max-width: 1000px;
+}
+#search-left-div, div{
+    max-width: 100px;
+}
+
+#search-btn{
+    margin-left: 30%;
+    margin-top: 0%;
+}
